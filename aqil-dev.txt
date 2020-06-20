@@ -4,4 +4,4 @@ Aqil Dev :
 - Belajar Mvc PHP
 - Belajar Framework Laravel
 - Belajar Framework Codeigniter
-- Membuat Web Aplikasi CV
+- Membuat Aplikasi Laravel
